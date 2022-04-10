@@ -1,0 +1,13 @@
+{
+	"name": "webshan/joomla",
+	"type": "project",
+	"description": "Dockerized Joomla development environment",
+	"keywords": ["Joomla", "Docker"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Sina Kuhestani",
+			"email": "kuhestani@webshan.online"
+		}
+	]
+}
